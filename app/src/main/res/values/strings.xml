@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="heroes_name">MAID</string>
+    <string name="detail">Master\'s AI</string>
+    <string name="list">List</string>
+    <string name="share">Share</string>
+    <string name="favorite">Favorite</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+</resources>
